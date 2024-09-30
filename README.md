@@ -137,4 +137,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Contact
 
-For questions or suggestions, feel free to reach out to the repository owner.
+For questions or suggestions, feel free to reach me out.
